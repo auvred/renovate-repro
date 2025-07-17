@@ -1,4 +1,7 @@
 {
   "gitIgnoredAuthors": ["github-actions[bot]@users.noreply.github.com"],
-  "automerge": true
+  "automerge": true,
+  "git-submodules": {
+    "enabled": true
+  }
 }
